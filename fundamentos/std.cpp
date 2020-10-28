@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    std::cout <<"Good morning" << std::endl;
+    cout <<"Good morning" << std::endl;
+    return 0;
+}
