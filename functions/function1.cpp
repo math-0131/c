@@ -15,7 +15,7 @@ string returnHi() {
     return "Hi!";
 }
 
-string returnHiTo(string name) {
+string returnHiTo(string name, bool x, int y, double z) {
     return "Hi!" + name + "!"; 
 }
 
